@@ -1,2 +1,1 @@
-# code_deploy_sample
-test
+# codedeploy-sample
